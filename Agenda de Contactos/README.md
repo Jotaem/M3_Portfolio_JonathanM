@@ -1,5 +1,4 @@
 # Agenda de Contactos en Consola
-
 Este es un programa simple en Python que simula una agenda de contactos.
 Permite a los usuarios agregar, buscar, eliminar y ver todos los contactos
 almacenados en una estructura de datos de diccionario.
